@@ -1,1 +1,1 @@
-# hubpost-challenge
+# hubspot-challenge
