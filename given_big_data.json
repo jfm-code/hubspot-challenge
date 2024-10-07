@@ -1,0 +1,3141 @@
+{
+    "existingAssociations": [
+        {
+            "companyId": 27468,
+            "contactId": 27469,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 25609,
+            "contactId": 25666,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 24817,
+            "contactId": 24857,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 26171,
+            "contactId": 26103,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 6096,
+            "contactId": 6079,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 13507,
+            "contactId": 13529,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 7725,
+            "contactId": 7752,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 12701,
+            "contactId": 12801,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 21161,
+            "contactId": 21180,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 16282,
+            "contactId": 16247,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 13098,
+            "contactId": 13025,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 11178,
+            "contactId": 11156,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 23784,
+            "contactId": 23799,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 23888,
+            "contactId": 23802,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 5521,
+            "contactId": 5517,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 24937,
+            "contactId": 24970,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 12862,
+            "contactId": 12833,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 20707,
+            "contactId": 20706,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 2257,
+            "contactId": 2279,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 3663,
+            "contactId": 3630,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 24261,
+            "contactId": 24218,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 25101,
+            "contactId": 25025,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 9945,
+            "contactId": 9912,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 27468,
+            "contactId": 27437,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 1974,
+            "contactId": 1929,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 3663,
+            "contactId": 3656,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 13201,
+            "contactId": 13279,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 9599,
+            "contactId": 9564,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12466,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 26249,
+            "contactId": 26225,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 25517,
+            "contactId": 25595,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12862,
+            "contactId": 12831,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 1712,
+            "contactId": 1761,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 26751,
+            "contactId": 26763,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 15031,
+            "contactId": 15061,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 9012,
+            "contactId": 9063,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 26643,
+            "contactId": 26667,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8308,
+            "contactId": 8392,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 2675,
+            "contactId": 2611,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 5909,
+            "contactId": 5964,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 10191,
+            "contactId": 10190,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 19685,
+            "contactId": 19700,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 20632,
+            "contactId": 20700,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 4708,
+            "contactId": 4742,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 15982,
+            "contactId": 15991,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 3233,
+            "contactId": 3232,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 26869,
+            "contactId": 26850,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 11010,
+            "contactId": 11064,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 7972,
+            "contactId": 7924,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 14644,
+            "contactId": 14634,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 19000,
+            "contactId": 18953,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 10042,
+            "contactId": 10004,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 12612,
+            "contactId": 12649,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 11948,
+            "contactId": 11967,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 9344,
+            "contactId": 9374,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 3314,
+            "contactId": 3397,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 10918,
+            "contactId": 10945,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 13495,
+            "contactId": 13440,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 9833,
+            "contactId": 9807,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 10686,
+            "contactId": 10613,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 17359,
+            "contactId": 17329,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8923,
+            "contactId": 8938,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 1873,
+            "contactId": 1846,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 9478,
+            "contactId": 9408,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22439,
+            "contactId": 22415,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 19946,
+            "contactId": 19984,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 26643,
+            "contactId": 26624,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 16329,
+            "contactId": 16357,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 10290,
+            "contactId": 10283,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22215,
+            "contactId": 22287,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12429,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 27034,
+            "contactId": 27078,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 15264,
+            "contactId": 15272,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 3443,
+            "contactId": 3487,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22987,
+            "contactId": 22976,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 1006,
+            "contactId": 1085,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12460,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 23920,
+            "contactId": 23934,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22621,
+            "contactId": 22611,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 16469,
+            "contactId": 16484,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 7664,
+            "contactId": 7669,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 6313,
+            "contactId": 6362,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 14753,
+            "contactId": 14726,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 23023,
+            "contactId": 23088,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 5881,
+            "contactId": 5828,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 13844,
+            "contactId": 13886,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 6481,
+            "contactId": 6414,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22339,
+            "contactId": 22314,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 21436,
+            "contactId": 21494,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 27034,
+            "contactId": 27073,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 18606,
+            "contactId": 18646,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 11308,
+            "contactId": 11337,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 5012,
+            "contactId": 5083,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 9012,
+            "contactId": 9058,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 17572,
+            "contactId": 17596,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 16095,
+            "contactId": 16046,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 17444,
+            "contactId": 17425,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 7592,
+            "contactId": 7586,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 4233,
+            "contactId": 4296,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 7314,
+            "contactId": 7337,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 524,
+            "contactId": 541,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 20495,
+            "contactId": 20441,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 25422,
+            "contactId": 25457,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 355,
+            "contactId": 354,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 4592,
+            "contactId": 4536,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 23123,
+            "contactId": 23157,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 5909,
+            "contactId": 6000,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 2899,
+            "contactId": 2887,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16792,
+            "contactId": 16777,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 1110,
+            "contactId": 1152,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 3577,
+            "contactId": 3596,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 9344,
+            "contactId": 9394,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 2399,
+            "contactId": 2307,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12481,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22621,
+            "contactId": 22653,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 14137,
+            "contactId": 14101,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 20192,
+            "contactId": 20107,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 9169,
+            "contactId": 9187,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 4629,
+            "contactId": 4633,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 17090,
+            "contactId": 17074,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12935,
+            "contactId": 12910,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22339,
+            "contactId": 22382,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 5909,
+            "contactId": 5950,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22785,
+            "contactId": 22778,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 16858,
+            "contactId": 16894,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 7411,
+            "contactId": 7468,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 3744,
+            "contactId": 3715,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 26751,
+            "contactId": 26706,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 15899,
+            "contactId": 15857,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 21092,
+            "contactId": 21045,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 9012,
+            "contactId": 9009,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 19864,
+            "contactId": 19896,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 11672,
+            "contactId": 11644,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 24762,
+            "contactId": 24757,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 22093,
+            "contactId": 22086,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 14213,
+            "contactId": 14257,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 5521,
+            "contactId": 5552,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 14315,
+            "contactId": 14383,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 11231,
+            "contactId": 11201,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 7252,
+            "contactId": 7206,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 28,
+            "contactId": 31,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20574,
+            "contactId": 20505,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 247,
+            "contactId": 261,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 26043,
+            "contactId": 26016,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 25145,
+            "contactId": 25110,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 7725,
+            "contactId": 7769,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 5262,
+            "contactId": 5273,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 19274,
+            "contactId": 19233,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 24964,
+            "contactId": 24970,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 25728,
+            "contactId": 25729,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 1219,
+            "contactId": 1232,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 140,
+            "contactId": 107,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 18378,
+            "contactId": 18365,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 20090,
+            "contactId": 20044,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12493,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 1355,
+            "contactId": 1325,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 11546,
+            "contactId": 11571,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 24551,
+            "contactId": 24525,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 16533,
+            "contactId": 16591,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 15477,
+            "contactId": 15473,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 26500,
+            "contactId": 26463,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 8109,
+            "contactId": 8169,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 5881,
+            "contactId": 5821,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 23361,
+            "contactId": 23365,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 21654,
+            "contactId": 21627,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 13507,
+            "contactId": 13527,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 7178,
+            "contactId": 7183,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 501,
+            "contactId": 409,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 13098,
+            "contactId": 13085,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22339,
+            "contactId": 22333,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 14516,
+            "contactId": 14587,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 2310,
+            "contactId": 2307,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 13770,
+            "contactId": 13704,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12268,
+            "contactId": 12283,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 23784,
+            "contactId": 23758,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 16965,
+            "contactId": 16949,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 12507,
+            "contactId": 12552,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 15145,
+            "contactId": 15121,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 19022,
+            "contactId": 19034,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 22339,
+            "contactId": 22384,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 24620,
+            "contactId": 24601,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 17816,
+            "contactId": 17823,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22187,
+            "contactId": 22105,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 728,
+            "contactId": 768,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 7725,
+            "contactId": 7717,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 23920,
+            "contactId": 23930,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22783,
+            "contactId": 22778,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 20927,
+            "contactId": 20907,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16173,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 13844,
+            "contactId": 13869,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8485,
+            "contactId": 8499,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 4943,
+            "contactId": 4919,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 13606,
+            "contactId": 13676,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 140,
+            "contactId": 189,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 15733,
+            "contactId": 15792,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 7725,
+            "contactId": 7749,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 3897,
+            "contactId": 3834,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 9169,
+            "contactId": 9166,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 19524,
+            "contactId": 19501,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 2675,
+            "contactId": 2690,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8536,
+            "contactId": 8523,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 9945,
+            "contactId": 9987,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 1006,
+            "contactId": 1091,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 18016,
+            "contactId": 18071,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 25363,
+            "contactId": 25326,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 19388,
+            "contactId": 19302,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 21391,
+            "contactId": 21373,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 11893,
+            "contactId": 11854,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 7004,
+            "contactId": 7080,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 25145,
+            "contactId": 25192,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 19410,
+            "contactId": 19471,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 8206,
+            "contactId": 8217,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 19149,
+            "contactId": 19107,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 26751,
+            "contactId": 26729,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 2420,
+            "contactId": 2489,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 24403,
+            "contactId": 24430,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 26249,
+            "contactId": 26233,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22830,
+            "contactId": 22890,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 24139,
+            "contactId": 24111,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 6481,
+            "contactId": 6475,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 27258,
+            "contactId": 27216,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 21941,
+            "contactId": 21961,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 15318,
+            "contactId": 15342,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 26751,
+            "contactId": 26743,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 25959,
+            "contactId": 25904,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 21579,
+            "contactId": 21566,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 2194,
+            "contactId": 2175,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 1696,
+            "contactId": 1669,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 3314,
+            "contactId": 3335,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 16676,
+            "contactId": 16607,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 8770,
+            "contactId": 8718,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 24346,
+            "contactId": 24328,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12163,
+            "contactId": 12167,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 9202,
+            "contactId": 9242,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 19706,
+            "contactId": 19798,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 23681,
+            "contactId": 23688,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 11948,
+            "contactId": 11983,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 27517,
+            "contactId": 27541,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 5262,
+            "contactId": 5235,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 1443,
+            "contactId": 1437,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 20632,
+            "contactId": 20611,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 8627,
+            "contactId": 8620,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 10859,
+            "contactId": 10829,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 16858,
+            "contactId": 16851,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 5881,
+            "contactId": 5840,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 11010,
+            "contactId": 11009,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 15695,
+            "contactId": 15634,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 26500,
+            "contactId": 26403,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 24551,
+            "contactId": 24504,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 11420,
+            "contactId": 11494,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 25220,
+            "contactId": 25293,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 26972,
+            "contactId": 26932,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 5678,
+            "contactId": 5607,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 25422,
+            "contactId": 25437,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 6917,
+            "contactId": 6906,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 10715,
+            "contactId": 10723,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 17970,
+            "contactId": 17989,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 9012,
+            "contactId": 9093,
+            "role": "BOARD_MEMBER"
+        }
+    ],
+    "newAssociations": [
+        {
+            "companyId": 14495,
+            "contactId": 14454,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 12701,
+            "contactId": 12801,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8329,
+            "contactId": 8396,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 14495,
+            "contactId": 14416,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 20428,
+            "contactId": 20441,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 20501,
+            "contactId": 20441,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 18781,
+            "contactId": 18714,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 6189,
+            "contactId": 6195,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 24061,
+            "contactId": 24045,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 3011,
+            "contactId": 3026,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 21553,
+            "contactId": 21566,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 26869,
+            "contactId": 26850,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 17359,
+            "contactId": 17303,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 1124,
+            "contactId": 1200,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 9012,
+            "contactId": 9004,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 21543,
+            "contactId": 21566,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 18378,
+            "contactId": 18365,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 4170,
+            "contactId": 4139,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16173,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 9344,
+            "contactId": 9348,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 23920,
+            "contactId": 23921,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 20787,
+            "contactId": 20706,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 19524,
+            "contactId": 19501,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 8770,
+            "contactId": 8718,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 6637,
+            "contactId": 6689,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 22187,
+            "contactId": 22105,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 26521,
+            "contactId": 26549,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 5881,
+            "contactId": 5895,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8026,
+            "contactId": 8061,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 24290,
+            "contactId": 24218,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 2675,
+            "contactId": 2602,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 26043,
+            "contactId": 26016,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 2056,
+            "contactId": 2031,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 3744,
+            "contactId": 3715,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 20827,
+            "contactId": 20892,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 26836,
+            "contactId": 26850,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 2194,
+            "contactId": 2175,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 19068,
+            "contactId": 19029,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 247,
+            "contactId": 261,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 18868,
+            "contactId": 18899,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 24260,
+            "contactId": 24218,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12494,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 10423,
+            "contactId": 10433,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 26643,
+            "contactId": 26670,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8970,
+            "contactId": 8938,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 14968,
+            "contactId": 14940,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 16533,
+            "contactId": 16591,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22502,
+            "contactId": 22517,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 6529,
+            "contactId": 6502,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 17359,
+            "contactId": 17346,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12429,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 19571,
+            "contactId": 19520,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 333,
+            "contactId": 354,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 13844,
+            "contactId": 13857,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8519,
+            "contactId": 8523,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 352,
+            "contactId": 354,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 19149,
+            "contactId": 19107,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 15523,
+            "contactId": 15584,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 24261,
+            "contactId": 24218,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 355,
+            "contactId": 354,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 6757,
+            "contactId": 6728,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 9638,
+            "contactId": 9695,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8092,
+            "contactId": 8032,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 728,
+            "contactId": 768,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 16912,
+            "contactId": 16949,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20232,
+            "contactId": 20267,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 19022,
+            "contactId": 19034,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 14137,
+            "contactId": 14101,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 26500,
+            "contactId": 26498,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 9785,
+            "contactId": 9772,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 10342,
+            "contactId": 10388,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 10191,
+            "contactId": 10190,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 19706,
+            "contactId": 19798,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 11546,
+            "contactId": 11571,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 12346,
+            "contactId": 12312,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 1110,
+            "contactId": 1152,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 21105,
+            "contactId": 21180,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 2310,
+            "contactId": 2307,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22339,
+            "contactId": 22303,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 8092,
+            "contactId": 8101,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 8627,
+            "contactId": 8620,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 12337,
+            "contactId": 12312,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 13180,
+            "contactId": 13169,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 8092,
+            "contactId": 8051,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 2521,
+            "contactId": 2543,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 8092,
+            "contactId": 8024,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16169,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 12862,
+            "contactId": 12844,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 8524,
+            "contactId": 8523,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 19399,
+            "contactId": 19302,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 17359,
+            "contactId": 17321,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 24290,
+            "contactId": 24218,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 17604,
+            "contactId": 17668,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 8970,
+            "contactId": 8938,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 1006,
+            "contactId": 1067,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 18115,
+            "contactId": 18119,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 4885,
+            "contactId": 4881,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 24260,
+            "contactId": 24218,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 20501,
+            "contactId": 20441,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8210,
+            "contactId": 8217,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 16329,
+            "contactId": 16357,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 17249,
+            "contactId": 17218,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 13645,
+            "contactId": 13637,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 20799,
+            "contactId": 20706,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 6189,
+            "contactId": 6187,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 25145,
+            "contactId": 25116,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 21857,
+            "contactId": 21888,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 24551,
+            "contactId": 24539,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 3926,
+            "contactId": 3992,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20428,
+            "contactId": 20441,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 15145,
+            "contactId": 15138,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 5372,
+            "contactId": 5321,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 17889,
+            "contactId": 17843,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 7694,
+            "contactId": 7617,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 22123,
+            "contactId": 22105,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 17359,
+            "contactId": 17329,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 26751,
+            "contactId": 26797,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 5881,
+            "contactId": 5860,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 15856,
+            "contactId": 15857,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 16584,
+            "contactId": 16591,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16160,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 23576,
+            "contactId": 23522,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 3926,
+            "contactId": 3912,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 27258,
+            "contactId": 27216,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 26821,
+            "contactId": 26850,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16173,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16129,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 9169,
+            "contactId": 9134,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 25517,
+            "contactId": 25595,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 11799,
+            "contactId": 11758,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 19887,
+            "contactId": 19896,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 6189,
+            "contactId": 6132,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 13507,
+            "contactId": 13506,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 15850,
+            "contactId": 15857,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 243,
+            "contactId": 261,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16149,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 8294,
+            "contactId": 8217,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 8536,
+            "contactId": 8523,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8954,
+            "contactId": 8938,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 19388,
+            "contactId": 19302,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 27141,
+            "contactId": 27152,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 3926,
+            "contactId": 3982,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12405,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12460,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 6189,
+            "contactId": 6169,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 12788,
+            "contactId": 12801,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 20632,
+            "contactId": 20665,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 16048,
+            "contactId": 16038,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 2980,
+            "contactId": 2936,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 19864,
+            "contactId": 19896,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 4052,
+            "contactId": 4048,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 12337,
+            "contactId": 12312,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 26321,
+            "contactId": 26328,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 18781,
+            "contactId": 18702,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 1696,
+            "contactId": 1669,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 18781,
+            "contactId": 18707,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 27468,
+            "contactId": 27412,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 3011,
+            "contactId": 3090,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8954,
+            "contactId": 8938,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 26972,
+            "contactId": 26932,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12448,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12337,
+            "contactId": 12312,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 26171,
+            "contactId": 26103,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 17604,
+            "contactId": 17668,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12380,
+            "contactId": 12363,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 4629,
+            "contactId": 4633,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 17604,
+            "contactId": 17668,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 21105,
+            "contactId": 21180,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 18781,
+            "contactId": 18788,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 25363,
+            "contactId": 25326,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 17816,
+            "contactId": 17823,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 16912,
+            "contactId": 16949,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12481,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 11308,
+            "contactId": 11337,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 3181,
+            "contactId": 3134,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 13923,
+            "contactId": 13946,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 5765,
+            "contactId": 5704,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 20495,
+            "contactId": 20441,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 19847,
+            "contactId": 19896,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 15850,
+            "contactId": 15857,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 15145,
+            "contactId": 15173,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 21161,
+            "contactId": 21180,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 8308,
+            "contactId": 8392,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 16520,
+            "contactId": 16591,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 6481,
+            "contactId": 6453,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 6189,
+            "contactId": 6181,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 24817,
+            "contactId": 24857,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 3011,
+            "contactId": 3013,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 16958,
+            "contactId": 16949,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 8519,
+            "contactId": 8523,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 19394,
+            "contactId": 19302,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 14495,
+            "contactId": 14461,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 6189,
+            "contactId": 6181,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 23499,
+            "contactId": 23470,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 8524,
+            "contactId": 8523,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 23519,
+            "contactId": 23522,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 19399,
+            "contactId": 19302,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 23264,
+            "contactId": 23205,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12404,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12765,
+            "contactId": 12801,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 728,
+            "contactId": 768,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 21721,
+            "contactId": 21762,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 5490,
+            "contactId": 5417,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 18781,
+            "contactId": 18756,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 243,
+            "contactId": 261,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 7725,
+            "contactId": 7708,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 12507,
+            "contactId": 12552,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 16965,
+            "contactId": 16949,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 8294,
+            "contactId": 8217,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 13314,
+            "contactId": 13342,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 9945,
+            "contactId": 9981,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 21543,
+            "contactId": 21566,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 8092,
+            "contactId": 8061,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 6190,
+            "contactId": 6181,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 17786,
+            "contactId": 17758,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 5909,
+            "contactId": 5991,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 21553,
+            "contactId": 21566,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20787,
+            "contactId": 20706,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12578,
+            "contactId": 12525,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 14495,
+            "contactId": 14471,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16624,
+            "contactId": 16606,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 15733,
+            "contactId": 15792,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 3926,
+            "contactId": 3964,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20310,
+            "contactId": 20358,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 728,
+            "contactId": 768,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 12788,
+            "contactId": 12801,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 23784,
+            "contactId": 23765,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 1355,
+            "contactId": 1325,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 27034,
+            "contactId": 27037,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 25827,
+            "contactId": 25839,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 24964,
+            "contactId": 24970,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 26176,
+            "contactId": 26139,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 26054,
+            "contactId": 26069,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 8923,
+            "contactId": 8938,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 18418,
+            "contactId": 18412,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 1358,
+            "contactId": 1347,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 14111,
+            "contactId": 14101,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 14608,
+            "contactId": 14634,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 23583,
+            "contactId": 23522,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 27325,
+            "contactId": 27311,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 140,
+            "contactId": 152,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 3314,
+            "contactId": 3371,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 16133,
+            "contactId": 16163,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 18781,
+            "contactId": 18708,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 5189,
+            "contactId": 5126,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 23583,
+            "contactId": 23522,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 14495,
+            "contactId": 14443,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16958,
+            "contactId": 16949,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 955,
+            "contactId": 993,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 8210,
+            "contactId": 8217,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 23858,
+            "contactId": 23897,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 14315,
+            "contactId": 14383,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 22783,
+            "contactId": 22778,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 19394,
+            "contactId": 19302,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 3011,
+            "contactId": 3072,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 20574,
+            "contactId": 20505,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 16520,
+            "contactId": 16591,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 881,
+            "contactId": 806,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 14618,
+            "contactId": 14634,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 26751,
+            "contactId": 26735,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16676,
+            "contactId": 16607,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 5521,
+            "contactId": 5572,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 15899,
+            "contactId": 15857,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 1572,
+            "contactId": 1551,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 333,
+            "contactId": 354,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 352,
+            "contactId": 354,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 23583,
+            "contactId": 23522,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 2399,
+            "contactId": 2307,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12493,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 22621,
+            "contactId": 22678,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 19887,
+            "contactId": 19896,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 17113,
+            "contactId": 17150,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 263,
+            "contactId": 261,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 17359,
+            "contactId": 17378,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 20827,
+            "contactId": 20855,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 22339,
+            "contactId": 22306,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 14104,
+            "contactId": 14101,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 8092,
+            "contactId": 8074,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 10556,
+            "contactId": 10515,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 7834,
+            "contactId": 7871,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16858,
+            "contactId": 16815,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 11948,
+            "contactId": 11974,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 22987,
+            "contactId": 22976,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 14644,
+            "contactId": 14634,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 9202,
+            "contactId": 9242,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 5909,
+            "contactId": 5933,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 1572,
+            "contactId": 1551,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 3926,
+            "contactId": 3956,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 14608,
+            "contactId": 14634,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 2278,
+            "contactId": 2295,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 8092,
+            "contactId": 8061,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 8893,
+            "contactId": 8803,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 18237,
+            "contactId": 18230,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 3926,
+            "contactId": 3961,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22123,
+            "contactId": 22105,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 15791,
+            "contactId": 15726,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 19133,
+            "contactId": 19185,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 3011,
+            "contactId": 3076,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 4353,
+            "contactId": 4344,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 13098,
+            "contactId": 13006,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 14806,
+            "contactId": 14839,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20827,
+            "contactId": 20835,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 14618,
+            "contactId": 14634,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 18717,
+            "contactId": 18756,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 2257,
+            "contactId": 2279,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 2899,
+            "contactId": 2887,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 24872,
+            "contactId": 24824,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 11010,
+            "contactId": 11042,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 701,
+            "contactId": 607,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 19847,
+            "contactId": 19896,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 26249,
+            "contactId": 26254,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20827,
+            "contactId": 20846,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 23576,
+            "contactId": 23522,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 7178,
+            "contactId": 7183,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 13606,
+            "contactId": 13676,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 1572,
+            "contactId": 1551,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12765,
+            "contactId": 12801,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 21134,
+            "contactId": 21180,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 12043,
+            "contactId": 12034,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 2801,
+            "contactId": 2734,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 15145,
+            "contactId": 15137,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 20707,
+            "contactId": 20706,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 3011,
+            "contactId": 3086,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 16095,
+            "contactId": 16046,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12430,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 7664,
+            "contactId": 7669,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 7725,
+            "contactId": 7761,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 14111,
+            "contactId": 14101,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 19790,
+            "contactId": 19763,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 25422,
+            "contactId": 25501,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 12462,
+            "contactId": 12466,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 14104,
+            "contactId": 14101,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 14055,
+            "contactId": 14041,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 14495,
+            "contactId": 14437,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 22168,
+            "contactId": 22105,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 12380,
+            "contactId": 12312,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 4443,
+            "contactId": 4446,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 26821,
+            "contactId": 26850,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 23519,
+            "contactId": 23506,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 5262,
+            "contactId": 5280,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 8206,
+            "contactId": 8217,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 15145,
+            "contactId": 15150,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 18781,
+            "contactId": 18756,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 21262,
+            "contactId": 21252,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 18575,
+            "contactId": 18532,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 20799,
+            "contactId": 20706,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 20827,
+            "contactId": 20861,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 23888,
+            "contactId": 23802,
+            "role": "ADVISOR"
+        },
+        {
+            "companyId": 18302,
+            "contactId": 18362,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 15856,
+            "contactId": 15857,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 6189,
+            "contactId": 6149,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 1696,
+            "contactId": 1669,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 21579,
+            "contactId": 21566,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 16584,
+            "contactId": 16591,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 22785,
+            "contactId": 22778,
+            "role": "EMPLOYEE"
+        },
+        {
+            "companyId": 9012,
+            "contactId": 9057,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 21134,
+            "contactId": 21180,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 26836,
+            "contactId": 26850,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 22168,
+            "contactId": 22105,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 20827,
+            "contactId": 20810,
+            "role": "BOARD_MEMBER"
+        },
+        {
+            "companyId": 1696,
+            "contactId": 1669,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 6859,
+            "contactId": 6841,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 12346,
+            "contactId": 12312,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 20090,
+            "contactId": 20044,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 263,
+            "contactId": 261,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 3663,
+            "contactId": 3626,
+            "role": "ALUMNI"
+        },
+        {
+            "companyId": 6238,
+            "contactId": 6228,
+            "role": "FOUNDER"
+        },
+        {
+            "companyId": 24937,
+            "contactId": 24970,
+            "role": "INVESTOR"
+        },
+        {
+            "companyId": 15145,
+            "contactId": 15121,
+            "role": "EMPLOYEE"
+        }
+    ]
+}
